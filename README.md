@@ -1,4 +1,4 @@
-# 💬 Chat2Data [Webapp](https://chat2data.streamlit.app/)
+# 💬 Chat2Data 
 
 **Chat2Data** is a Streamlit-based AI-powered app that lets you **ask questions in natural language** and get accurate SQL-generated insights from a global economic dataset.
 
@@ -22,6 +22,10 @@ It uses **Google Gemini (via Gemini Pro)** to convert plain English into SQL que
 - ✅ Executes queries against **SQLite DB**
 - ✅ Interactive result table (via `pandas` + Streamlit)
 - ✅ Query history log (for successful queries only)
+
+---
+
+Check out the Webapp: [Chat2Data](https://chat2data.streamlit.app/)
 
 ---
 
