@@ -34,8 +34,8 @@ Check out the Webapp: [Chat2Data](https://chat2data.streamlit.app/)
 - "Which countries had the highest GDP in 2020?"
 - "List the top 5 countries by GDP growth in 2022."
 - "Show unemployment rates in India from 2015 to 2020."
-- "Compare public debt between USA and China in 2018."
-- "What was the average inflation for the EU over the last decade?"
+- "Compare public debt between United States and China in 2018."
+- "What was the average inflation for the United Arab Emirates over the last decade?"
 
 ---
 
